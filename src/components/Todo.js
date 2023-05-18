@@ -41,6 +41,6 @@ const Todo = ({ todos, completeTodo, removeTodo, updateTodo }) => {
       </div>
     </div>
   ));
-};
+}; //i love totol
 
 export default Todo;
